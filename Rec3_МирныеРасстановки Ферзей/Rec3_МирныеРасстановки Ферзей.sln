@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rec3_МирныеРасстановки Ферзей", "Rec3_МирныеРасстановки Ферзей.csproj", "{668CA3DC-3C72-441A-BCA9-6F2428DC7EFE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{668CA3DC-3C72-441A-BCA9-6F2428DC7EFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{668CA3DC-3C72-441A-BCA9-6F2428DC7EFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{668CA3DC-3C72-441A-BCA9-6F2428DC7EFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{668CA3DC-3C72-441A-BCA9-6F2428DC7EFE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B12FC7F7-28BE-4AE9-993A-43C084ED5960}
+	EndGlobalSection
+EndGlobal
